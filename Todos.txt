@@ -1,2 +1,4 @@
-1. Iniciar clase de Devops con pase de lista
+1. Iniciar clase de Devops con pase de lista y poner asistencia a los del chat
 2. Crear un Repo en Github
+3. Inicializar repo local
+4. Agregar archivo al Repo local
